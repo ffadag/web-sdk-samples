@@ -9,3 +9,4 @@ Some parameters, such as the "localFolderPath", may need to be changed to use th
 ## Further Reading
 - [Importing a Package](https://lw.microstrategy.com/msdz/MSDL/GARelease_Current/docs/projects/WebSDK/Content/topics/objbeans/Importing_a_Package.htm) - Web SDK documentation for createObjectDeltaPackage & applyDeltaPackage.
 - [WebSourceManipulator API Reference](https://lw.microstrategy.com/msdz/MSDL/GARelease_Current/docs/ReferenceFiles/reference/com/microstrategy/web/objects/WebSourceManipulator.html) - API documentation for manipulator class.
+#
